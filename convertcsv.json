@@ -1,0 +1,66 @@
+[
+ {
+   "A": "Count of Unique Landfills in this File",
+   "B": "Count of Unique Operational Projects in this File"
+ },
+ {
+   "A": "489",
+   "B": "532"
+ },
+ {
+   "A": "The LMOP Database contains key information about MSW landfills and LFG energy projects in the United States. Information in the LMOP Database is compiled from a variety of sources. Data received for inclusion in the LMOP Database are reviewed for reasonableness and are corroborated via other data sources when possible. Not all data are updated each year. While the Program strives to keep the information as updated and accurate as possible, the database is not exhaustive. The LMOP Database does not include data for every MSW landfill in the United States.",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "Descriptions for the Options in the \"Current Project Status\" Field",
+   "B": ""
+ },
+ {
+   "A": "Operational: Project or expansion is online",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "Shutdown: Project or expansion has ceased operations",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "Construction: Construction is underway on project or expansion",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "Planned: Planning is underway on project or expansion (between Candidate and Construction)",
+   "B": ""
+ },
+ {
+   "A": "",
+   "B": ""
+ },
+ {
+   "A": "Future Potential: Landfill is open but does not meet the technical criteria for Candidate status yet; or landfill already has an Operational project but there is opportunity for additional energy recovery. ",
+   "B": ""
+ }
+]
